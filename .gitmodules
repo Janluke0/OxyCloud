@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Janluke0/oxycloud-backend
+[submodule "docs"]
+	path = docs
+	url = https://github.com/Janluke0/OxyCloud-docs
